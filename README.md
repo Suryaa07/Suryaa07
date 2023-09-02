@@ -1,4 +1,8 @@
-### Hi there 👋
+### Good Day Guys 🙏🏻
+
+Suryaa Narayanan K (SuN)
+Data Analyst 📊| Aspiring Engineer🤖 | Passionate Learner📚| Exploring the Intersection of Technology and Creativity👨🏽‍💻 | Open to Opportunities
+
 
 <!--
 **Suryaa07/Suryaa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
