@@ -1,5 +1,5 @@
 ### Good Day Guys 🙏🏻
-[![HitCount](https://hits.dwyl.com/Suryaa07/Suryaa07.svg?style=flat-square)](http://hits.dwyl.com/Suryaa07/Suryaa07)
+[![👀](https://hits.dwyl.com/Suryaa07/Suryaa07.svg?style=flat-square)](http://hits.dwyl.com/Suryaa07/Suryaa07)
 Suryaa Narayanan K (SuN)
 
 
