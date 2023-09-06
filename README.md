@@ -1,14 +1,27 @@
-<h1 align="center">Good Day Guys 👋, I'm Suryaa Narayanan</h1>
+<h1 align="center">Hello World 🤞🏻 from Suryaa Narayanan</h1>
 <h3 align="center">An Aspiring Engineer who is highly motivated engineering graduate seeking an entry-level position to apply technical knowledge and contribute to the development of innovative solutions while continuously learning and growing in a dynamic work environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaa07&label=Profile%20views&color=0e75b6&style=flat" alt="suryaa07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaa07" alt="suryaa07" /></a> </p>
 
+- 🔭 I’m pursuing my 4th year at **Rajalakshmi Institute of Technology**
+
+- 🌱 I’m currently learning **Dataops**
+
+- 🤝 I’m looking for help with **Real time Data Analysis**
+
+- 💬 Ask me about **Data Science, Data Analysis**
+
+- 📫 How to reach me **snarayanank07@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/suryaa-narayanan-k-2a015b1ba/](https://www.linkedin.com/in/suryaa-narayanan-k-2a015b1ba/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suryaa narayanan k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryaa narayanan k" height="30" width="40" /></a>
 <a href="https://instagram.com/resultyst_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="resultyst_07" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/suryaanarayanan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/suryaanarayanan1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
