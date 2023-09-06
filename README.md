@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 🤞🏻 from Suryaa Narayanan</h1>
 <h3 align="center">An Aspiring Engineer who is highly motivated engineering graduate seeking an entry-level position to apply technical knowledge and contribute to the development of innovative solutions while continuously learning and growing in a dynamic work environment.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaa07&label=👀%20&color=0e75b6&style=flat" alt="suryaa07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaa07&label=👀%40&color=#1bf6e1&style=flat" alt="suryaa07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaa07" alt="suryaa07" /></a> </p>
 
