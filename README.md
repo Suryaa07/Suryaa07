@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **snarayanank07@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/suryaa-narayanan-k-2a015b1ba/](https://www.linkedin.com/in/suryaa-narayanan-k-2a015b1ba/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/suryaanarayanank/](https://www.linkedin.com/in/suryaanarayanank/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
